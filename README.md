@@ -69,5 +69,5 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 ### TODO NOTES
-https://eu1.prisma.sh/irene-canuti-12271c/server/dev
+https://eu1.prisma.sh/irene-canuti-12271c/server/dev    
 https://www.howtographql.com/react-apollo/4-routing/
